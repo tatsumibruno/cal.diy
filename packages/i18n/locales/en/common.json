@@ -4768,5 +4768,13 @@
   "user_updated_successfully": "User updated successfully.",
   "error_updating_user": "There was an error updating this user.",
   "please_reschedule": "Please reschedule.",
+  "wc2026_title": "FIFA World Cup 2026 — {{team}}",
+  "wc2026_subtitle": "Match schedule",
+  "wc2026_stage": "Stage",
+  "wc2026_group": "Group",
+  "wc2026_venue": "Venue",
+  "wc2026_kickoff_local": "Local kickoff",
+  "wc2026_kickoff_utc": "UTC kickoff",
+  "wc2026_no_matches": "No matches found for this team.",
   "ADD_NEW_STRINGS_ABOVE_THIS_LINE_TO_PREVENT_MERGE_CONFLICTS": "↑↑↑↑↑↑↑↑↑↑↑↑↑ Add your new strings above here ↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑↑"
 }

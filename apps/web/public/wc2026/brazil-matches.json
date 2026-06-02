@@ -1,0 +1,71 @@
+[
+  {
+    "matchId": "400021456",
+    "matchDay": null,
+    "stage": "First Stage",
+    "group": "Group C",
+    "dateUtc": "2026-06-13T22:00:00Z",
+    "dateLocal": "2026-06-13T18:00:00Z",
+    "home": {
+      "name": "Brazil",
+      "code": "BRA",
+      "country": "BRA"
+    },
+    "away": {
+      "name": "Morocco",
+      "code": "MAR",
+      "country": "MAR"
+    },
+    "venue": {
+      "stadium": "New York/New Jersey Stadium",
+      "city": "New York",
+      "country": "USA"
+    }
+  },
+  {
+    "matchId": "400021457",
+    "matchDay": null,
+    "stage": "First Stage",
+    "group": "Group C",
+    "dateUtc": "2026-06-20T00:30:00Z",
+    "dateLocal": "2026-06-19T20:30:00Z",
+    "home": {
+      "name": "Brazil",
+      "code": "BRA",
+      "country": "BRA"
+    },
+    "away": {
+      "name": "Haiti",
+      "code": "HAI",
+      "country": "HAI"
+    },
+    "venue": {
+      "stadium": "Philadelphia Stadium",
+      "city": "Philadelphia",
+      "country": "USA"
+    }
+  },
+  {
+    "matchId": "400021455",
+    "matchDay": null,
+    "stage": "First Stage",
+    "group": "Group C",
+    "dateUtc": "2026-06-24T22:00:00Z",
+    "dateLocal": "2026-06-24T18:00:00Z",
+    "home": {
+      "name": "Scotland",
+      "code": "SCO",
+      "country": "SCO"
+    },
+    "away": {
+      "name": "Brazil",
+      "code": "BRA",
+      "country": "BRA"
+    },
+    "venue": {
+      "stadium": "Miami Stadium",
+      "city": "Miami",
+      "country": "USA"
+    }
+  }
+]

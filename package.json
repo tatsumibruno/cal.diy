@@ -57,6 +57,7 @@
     "format": "biome format --write .",
     "heroku-postbuild": "turbo run @calcom/web#build",
     "lint:fix": "turbo lint:fix",
+    "wc2026-mcp": "node ./scripts/wc2026-mcp/server.ts",
     "lint:report": "turbo lint:report",
     "lint": "turbo lint",
     "postinstall": "husky install && turbo run post-install",
